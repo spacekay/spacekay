@@ -1,7 +1,7 @@
 steady runner, risk taker ✨✨
 @spacekay
 
-Baekjoon Gold 3 ⭐⭐⭐
+BOJ Gold 3 ⭐⭐⭐
 
 contact:
 bethjkim0311@gmail.com
