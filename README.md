@@ -3,11 +3,14 @@ steady runner, risk taker ✨✨
 
 BOJ Gold 2 ⭐⭐⭐⭐
 
+profile:
+https://spacekay.github.io
+
 contact:
 bethjkim0311@gmail.com
 
 blog:
-http://thespacekay.tistory.com
+https://thespacekay.tistory.com/
 
 <!---
 spacekay/spacekay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
