@@ -1,7 +1,7 @@
 steady runner, risk taker ✨✨
 @spacekay
 
-BOJ Gold 3 ⭐⭐⭐
+BOJ Gold 2 ⭐⭐⭐⭐
 
 contact:
 bethjkim0311@gmail.com
