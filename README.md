@@ -1,8 +1,6 @@
 steady runner, risk taker ✨✨
 @spacekay
 
-BOJ Gold 2 ⭐⭐⭐⭐
-
 profile:
 https://spacekay.github.io
 
