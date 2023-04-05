@@ -11,7 +11,7 @@ blog:
 https://thespacekay.tistory.com/
 
 gitbook:
-https://spacekay.gitbook.io/megatera-study/
+https://spacekay.gitbook.io/study/
 
 <!---
 spacekay/spacekay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
