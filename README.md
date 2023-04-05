@@ -9,6 +9,7 @@ bethjkim0311@gmail.com
 
 blog:
 https://thespacekay.tistory.com/
+https://spacekay.gitbook.io/megatera-study/
 
 <!---
 spacekay/spacekay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
