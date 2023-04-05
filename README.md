@@ -10,6 +10,7 @@ bethjkim0311@gmail.com
 blog:
 https://thespacekay.tistory.com/
 
+gitbook:
 https://spacekay.gitbook.io/megatera-study/
 
 <!---
