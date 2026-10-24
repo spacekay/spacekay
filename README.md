@@ -7,6 +7,9 @@ https://spacekay.github.io
 gitbook:
 https://spacekay.gitbook.io/study/
 
+linkedin:
+https://www.linkedin.com/in/jonghee-kim-space
+
 contact:
 thespacekay@gmail.com
 
